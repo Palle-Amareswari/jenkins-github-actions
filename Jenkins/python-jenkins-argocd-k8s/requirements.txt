@@ -1,4 +1,0 @@
-django==3.2
-asgiref==3.9.2
-sqlparse==0.5.3
-pytz==2025.2
